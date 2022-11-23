@@ -1,9 +1,10 @@
 Allan Hudgins
 =============
 
---------------------     --------------------
-Ottawa, Canada           al.hudgins@gmail.com
---------------------     --------------------
+--------------------
+Ottawa, Canada
+al.hudgins@gmail.com
+--------------------
 
 Education
 ---------
@@ -12,6 +13,7 @@ B.Sc. Computer Science, University of Saskatchewan, 1998
 Experience
 ----------
 Feb 2015 - present : Bitaccess Inc. - bitaccess.com
+
 Current Role: Principal Engineer
 
 When I joined Bitaccess, it was a Y-Combinator-graduated startup with a fairly
@@ -24,10 +26,12 @@ helped the software team:
 
 Technologies:
  - Node.js, JavaScript/TypeScript, Express, NestJS, MongoDB, Datastore, Redis
+
 Links:
  - [Bitaccess BTM Locations](https://bitaccess.com/locations)
 
 Dec 2014 - Feb 2015 : Nureva Inc. - www.nureva.com
+
 Role: Doesn't Matter
 
 I was hired by Nureva to work on a from-scratch Node.js-based product,
@@ -36,6 +40,7 @@ maintain. I ~~got the f~~ left to seek work elsewhere that better
 matched my skills and interests.
 
 May 2014 - Dec 2014 : hiatus
+
 Role: Unemployed Dreamer & Wife-Concerner
 
 I took several months off to try my hand at iOS game development.
@@ -45,10 +50,12 @@ gameplay videos and will admit I have no idea what's going on.
 
 Technologies:
  - Objective-C, SpriteKit, XCode
+
 Links:
  - [Gameplay videos - Youtube](http://bit.ly/10x5p5x)
 
 June 2012 - May 2014: QNX Software Systems (Blackberry) - www.qnx.com
+
 Role: Software Developer, Concept Development Group
 
 At QNX I joined a small team building demos for trade shows like CES. Not being
@@ -63,6 +70,7 @@ much of a C-programmer, I opted to use web technologies to:
 
 Technologies:
  - Node.js, JavaScript, MongoDB, Redis, Websockets, MQTT
+
 Links:
  - [CES 2014 mobile app overview](http://qnxauto.blogspot.ca/2014/01/qnx-at-ces-key-fob-on-steroids.html)
  - [CES 2013 Bentley demo](https://www.youtube.com/watch?v=SSwRsJLSXjY)
@@ -70,6 +78,7 @@ Links:
  - [QNX blog interview](http://qnxauto.blogspot.ca/2012/12/meet-qnx-concept-team-allan-hudgins-web.html)
 
 May 2010 - May 2012: Benbria Corporation - www.benbria.com
+
 Role: Software Developer
 
 At Benbria I made the transition from Java developer to Node.js developer by
@@ -82,7 +91,8 @@ Technologies:
  - JavaScript/CoffeeScript, MongoDB, Socket.io, Backbone.js
 
 June 1998 - March 2010: SED Systems - www.sedsystems.com
-Role: Systems Analyst or something gross like that
+
+Role: Systems Analyst or something stuffy like that
 
 SED Systems builds satellite communications and test systems. I worked there a
 hundred years ago. The following summary from an old resume seems like something
