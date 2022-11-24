@@ -3,6 +3,7 @@ Allan Hudgins
 
 --------------------
 Ottawa, Canada
+
 al.hudgins@gmail.com
 --------------------
 
@@ -12,32 +13,42 @@ B.Sc. Computer Science, University of Saskatchewan, 1998
 
 Experience
 ----------
-Feb 2015 - present : Bitaccess Inc. - bitaccess.com
+Feb 2015 - present : [Bitaccess Inc.](bitaccess.com)
 
 Current Role: Principal Engineer
 
-When I joined Bitaccess, it was a Y-Combinator-graduated startup with a fairly
-nascent Bitcoin ATM product. In my time at the company (most of its life), I
-helped the software team:
- - write a lot of Node-based REST microservices
- - build two experimental products (buybitcoincanada.com and faa.st)
- - grow from 5 to 25 developers
- - mature the Bitcoin ATM product and achieve a billion dollar lifetime volume.
+When I joined Bitaccess, it was a recent Y-Combinator grad with a fairly
+nascent Bitcoin ATM (BTM) product and a small handful of developers. I wrote
+a lot of the early software, much of which is still in production, but I
+think my most valuable contribution was in helping to grow the software
+team from 5 to 25 while fostering an open, honest, caring, and dedicated
+culture. It is/was a wonderful group of people.
+
+Together with a front-end developer I helped hire, I built Bitaccess'
+BuyBitcoinCanada.com product, which was a non-custodial crypto exchange offering
+BTC and ETH via PIN redemption, debit, credit, and bank integrations.
+While we eventually sunsetted that product, the order processing system I built
+for it now handles all BTM volume.
+
+I was part of another two-person team that built Faa.st, which was a
+non-custodial "instant-exchange" allowing customers to swap cryptocurrencies.
+We later transformed the product into a peer-to-peer mechanism with market-makers,
+but ultimately opted to sunset it due to regulatory guidance.
 
 Technologies:
- - Node.js, JavaScript/TypeScript, Express, NestJS, MongoDB, Datastore, Redis
+ - Node.js, JS/TS, Express, NestJS, MongoDB, Datastore, Redis, Websockets
 
 Links:
  - [Bitaccess BTM Locations](https://bitaccess.com/locations)
 
-Dec 2014 - Feb 2015 : Nureva Inc. - www.nureva.com
+Dec 2014 - Feb 2015 : [Nureva Inc.](nureva.com)
 
 Role: Doesn't Matter
 
-I was hired by Nureva to work on a from-scratch Node.js-based product,
-but the company instead purchased a legacy PHP/Dojo product for us to
-maintain. I ~~got the f~~ left to seek work elsewhere that better
-matched my skills and interests.
+I was hired by Nureva to work on a from-scratch Node.js-based product, but the
+company instead purchased an outsourced, legacy PHP/Dojo application for us to
+maintain. I ~~got the f~~ left to seek work elsewhere that better matched my
+skills and interests.
 
 May 2014 - Dec 2014 : hiatus
 
@@ -54,7 +65,7 @@ Technologies:
 Links:
  - [Gameplay videos - Youtube](http://bit.ly/10x5p5x)
 
-June 2012 - May 2014: QNX Software Systems (Blackberry) - www.qnx.com
+June 2012 - May 2014: [QNX Software Systems (Blackberry)](qnx.com)
 
 Role: Software Developer, Concept Development Group
 
@@ -77,7 +88,7 @@ Links:
  - [CES 2013 Bentley write-up](http://qnxauto.blogspot.ca/2013/12/the-ultimate-show-me-car.html)
  - [QNX blog interview](http://qnxauto.blogspot.ca/2012/12/meet-qnx-concept-team-allan-hudgins-web.html)
 
-May 2010 - May 2012: Benbria Corporation - www.benbria.com
+May 2010 - May 2012: [Benbria Corporation](benbria.com)
 
 Role: Software Developer
 
@@ -90,7 +101,7 @@ Javascript experience, and we all lived happily ever after.
 Technologies:
  - JavaScript/CoffeeScript, MongoDB, Socket.io, Backbone.js
 
-June 1998 - March 2010: SED Systems - www.sedsystems.com
+June 1998 - March 2010: [SED Systems](https://www.calian.com/service-lines/advanced-technologies)
 
 Role: Systems Analyst or something stuffy like that
 
@@ -98,7 +109,7 @@ SED Systems builds satellite communications and test systems. I worked there a
 hundred years ago. The following summary from an old resume seems like something
 that happened to someone else at this point, but I'll include it for interest's sake.
 
-During my time at SED I went from an entry-level Java programmer to a senior
+> During my time at SED I went from an entry-level Java programmer to a senior
 software developer and system integrator. I worked as part of a small team
 building and deploying a Monitor & Control system for satellite ground stations.
 It was a Java and C++ client-server application with a Java-based system design
@@ -112,7 +123,7 @@ I’ve certainly forgotten that too.
 Things I Like
 -------------
 
- - Bitcoin (not crypto)
- - Commodore 64
+ - [Bitcoin (not crypto)](https://www.youtube.com/watch?v=zuxgOW_BQAU)
+ - [Commodore 64](https://www.youtube.com/watch?v=Z1-HTSrOB74)
  - My wife & kids
  - TODO: reorder this list
