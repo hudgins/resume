@@ -1,7 +1,7 @@
 Allan Hudgins
 =============
 
-#### Ottawa, Canada
+#### British Columbia, Canada
 #### al.hudgins@gmail.com
 
 Education
@@ -42,6 +42,7 @@ government's Chivo wallet system.
  - 2022 - my team created a new fiat offramp for Bitcoin Depot which allows
 customers to purchase crypto at retail outlets in the USA through a partnership
 with a major gift card service provider.
+ - 2023 - currently migrating services from Heroku to AWS
 
 #### Technologies:
  - Node.js, JS/TS, Express, NestJS, MongoDB, Datastore, Redis, Websockets, Blood, Sweat, Tears, Love
