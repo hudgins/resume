@@ -6,7 +6,7 @@ Allan Hudgins
 
 Education
 ---------
-B.Sc. Computer Science, University of Saskatchewan, 1998
+B. Sc. Computer Science, University of Saskatchewan, 1998
 
 Experience
 ----------
