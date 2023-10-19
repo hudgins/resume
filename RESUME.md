@@ -10,16 +10,16 @@ B.Sc. Computer Science, University of Saskatchewan, 1998
 
 Experience
 ----------
-### Feb 2015 - present : [Bitaccess Inc.](https://bitaccess.com)
+### Feb 2015 - Sept 2023: [Bitaccess Inc.](https://bitaccess.com)
 
 #### Current Role: Principal Engineer
 
-When I joined Bitaccess, it was a recent Y-Combinator grad with a fairly
+When I joined Bitaccess in 2015, it was a recent Y-Combinator grad with a fairly
 nascent Bitcoin ATM (BTM) product and a small handful of developers. I wrote
 a lot of the early software, much of which is still in production, but I
 think my most valuable contribution was in growing the software team from
 5 to 25 while fostering an open, honest, caring, and dedicated culture.
-It is/was a wonderful group of people.
+It was a wonderful group of people.
 
 Some notable accomplishments over the years include:
  - 2015 - I replaced the BTM kiosk software upgrade process, moving it from
@@ -42,10 +42,10 @@ government's Chivo wallet system.
  - 2022 - my team created a new fiat offramp for Bitcoin Depot which allows
 customers to purchase crypto at retail outlets in the USA through a partnership
 with a major gift card service provider.
- - 2023 - currently migrating services from Heroku to AWS
+ - 2023 - migrated services from Heroku to AWS, developed CI pipelines on Github Actions
 
 #### Technologies:
- - Node.js, JS/TS, Express, NestJS, MongoDB, Datastore, Redis, Websockets, Blood, Sweat, Tears, Love
+ - Node.js, JavaScript, TypeScript, Express, NestJS, MongoDB, Datastore, Redis, Websockets, Github Actions
 
 #### Links:
  - [Bitaccess BTM Locations](https://bitaccess.com/locations)
@@ -56,12 +56,11 @@ with a major gift card service provider.
 
 ### Dec 2014 - Feb 2015 : [Nureva Inc.](https://nureva.com)
 
-#### Role: Doesn't Matter
+#### Role: Senior Developer
 
 I was hired by Nureva to work on a from-scratch Node.js-based product, but the
 company instead purchased an outsourced, legacy PHP/Dojo application for us to
-maintain. I ~~got the f~~ left to seek work elsewhere that better matched my
-skills and interests.
+maintain. I left to seek work elsewhere that better matched my skills and interests.
 
 ### May 2014 - Dec 2014 : hiatus
 
@@ -82,7 +81,7 @@ gameplay videos and will admit I have no idea what's going on.
 
 #### Role: Software Developer, Concept Development Group
 
-At QNX I joined a small team building demos for trade shows like CES. Not being
+At QNX I joined a small team building marketing demos for trade shows like CES. Not being
 much of a C-programmer, I opted to use web technologies to:
  - create ‘connected car’ concept demos using Node.js on QNX and web front-ends
  - maintain a QNX Node port (0.6 to 0.10) for my use and QNX customers such as Audi and Volkswagen
@@ -106,7 +105,7 @@ much of a C-programmer, I opted to use web technologies to:
 #### Role: Software Developer
 
 At Benbria I made the transition from Java developer to Node.js developer by
-convincing management to let me. The company had built its flagship product
+convincing management to try Node.js as an alternative platform. The company had built its flagship product
 on J2EE but for its new product idea (which appears to be their main focus
 now), a couple of us made a case for switching to Node, despite having no
 Javascript experience, and we all lived happily ever after.
@@ -138,5 +137,6 @@ Things I Like
 
  - [Bitcoin (not crypto)](https://www.youtube.com/watch?v=zuxgOW_BQAU)
  - [Commodore 64](https://www.youtube.com/watch?v=Z1-HTSrOB74)
+ - [PICO-8](https://www.lexaloffle.com/pico-8.php)
  - My wife & kids
  - TODO: reorder this list
