@@ -1,5 +1,6 @@
 Allan Hudgins
 =============
+[Markdown source for this document - https://github.com/hudgins/resume/blob/main/RESUME.md](https://github.com/hudgins/resume/blob/main/RESUME.md)
 
 #### British Columbia, Canada
 #### al.hudgins@gmail.com
