@@ -5,6 +5,11 @@ Allan Hudgins
 #### British Columbia, Canada
 #### al.hudgins@gmail.com
 
+Summary
+-------
+I've spent 25+ years writing software professionally in various roles. Building interesting things as part of a
+small team of delightful human beings makes me happy.
+
 Education
 ---------
 B. Sc. Computer Science, University of Saskatchewan, 1998
@@ -132,6 +137,13 @@ the Netherlands) and integrating the software system with the satellite equipmen
 I learned (and have now largely forgotten) a lot about SNMP, RS232, GPIB, CORBA,
 and XML. If I ever really understood any of the satellite communications stuff
 I’ve certainly forgotten that too.
+
+Side Projects
+-------------
+
+ - [We Love Fortune](https://www.lexaloffle.com/bbs/?tid=54845)
+   - this is my homage to the Commodore 64 Wheel of Fortune game
+   - built for the PICO-8 fantasy console in Lua
 
 Things I Like
 -------------
